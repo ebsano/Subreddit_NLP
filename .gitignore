@@ -1,1 +1,6 @@
-.data/onion_news.csv
+./data/onion_news.csv
+./data/.ipynb_checkpoints/onion_news-checkpoint.csv
+./code/.ipynb_checkpoints
+./figures/.ipynb_checkpoints
+./background
+./subreddit.pptx
