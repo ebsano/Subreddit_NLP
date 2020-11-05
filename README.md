@@ -126,8 +126,8 @@ project-3-master
 |   |__ nb_important_words.png
 |   |__ nb_not_important_words.png
 |   |__ stem_10_most_frequent_words.png
+|
 |__ subreddits_presentation.pdf
+|
 |__ README.md
-|__ background
-    |__ README.md (original project description)
 ```
